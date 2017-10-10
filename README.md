@@ -1,1 +1,1 @@
-# Financial-management-of-CPA
+![cg1](../../cg1.png)
