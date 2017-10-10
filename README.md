@@ -1,1 +1,1 @@
-![cg1](../../cg1.png)
+![cg1](pics/cg1.png)
